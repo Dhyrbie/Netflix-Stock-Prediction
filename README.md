@@ -2,7 +2,7 @@
 Prediksi Harga Saham Netflix menggunakan LSTM &amp; Streamlit (One-Step ahead)
 # Prediksi Harga Saham Netflix (NFLX) dengan LSTM
 
-Projek ini adalah bagian dari Tugas Akhir untuk memprediksi harga saham Netflix menggunakan algoritma Deep Learning Long Short-Term Memory (LSTM).
+Projek ini adalah bagian dari Tugas Akhir Mata Kuliah Data Science untuk memprediksi harga saham Netflix menggunakan algoritma Deep Learning Long Short-Term Memory (LSTM).
 
 ## 📊 Hasil Evaluasi Model
 - **RMSE:** 3.68 USD
