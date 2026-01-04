@@ -20,5 +20,3 @@ Projek ini adalah bagian dari Tugas Akhir Mata Kuliah Data Science untuk mempred
 3. Jalankan Streamlit: `streamlit run app.py`
 
 ---
-Dibuat oleh: [Nama Kamu]
-Mahasiswa Teknik Informatika UIN Jakarta
